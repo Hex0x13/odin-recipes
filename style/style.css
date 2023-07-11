@@ -28,3 +28,28 @@ body {
 .steps-section {
     margin-top: 30px;
 }
+
+
+
+.index-content {
+    background-color: aliceblue;
+    padding: 8px;
+}
+
+.recipe-list.index-list {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.list {
+    margin-bottom: 16px;
+    color: darkblue;
+}
+
+.list * {
+    color: blue;
+    text-decoration: solid;
+}
+
+.list:hover {
+    opacity: 0.8;
+}
