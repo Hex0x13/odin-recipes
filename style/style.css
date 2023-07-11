@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    padding: 10px;
+}
+
+.recipe-list {
+    list-style-type: circle;
+}
+
+.recipe-image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.description-section {
+    margin-top: 30px;
+}
+
+.ingredients-section {
+    margin-top: 30px;
+}
+
+.steps-section {
+    margin-top: 30px;
+}
